@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sri Janani.G - Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <h1>Sri Janani.G</h1>
+        <p>Agricultural Engineer, GIS Enthusiast</p>
+        <p>Phone: 6369713700 | Email: g.shrijananiwork@gmail.com | Coimbatore, Tamil Nadu</p>
+        <p><a href="https://www.linkedin.com/in/sri-janani-g" target="_blank">LinkedIn Profile</a></p>
+    </header>
+
+    <section id="summary">
+        <h2>SUMMARY</h2>
+        <p>Result-oriented Agriculture Engineering student with hands-on experience in Geographic Information Systems (GIS) and a passion for applying GIS technology in agricultural contexts. Adept at managing spatial data, integrating GIS applications, and analysing geospatial information for precision farming and land management. Skilled in troubleshooting software and improving GIS workflows. Strong understanding of agricultural data management, geospatial mapping, and environmental sustainability.</p>
+    </section>
+
+    <section id="skills">
+        <h2>KEY SKILLS</h2>
+        <ul>
+            <li>GIS Integration</li>
+            <li>Geospatial Mapping</li>
+            <li>Data Management</li>
+            <li>Precision Farming</li>
+            <li>Digitisation</li>
+            <li>Data Visualization</li>
+            <li>Troubleshooting</li>
+            <li>Remote Sensing</li>
+            <li>Process Improvement</li>
+            <li>Project Management</li>
+            <li>Technical Assistance</li>
+            <li>Terrestrial analysis</li>
+            <li>Machine Learning</li>
+        </ul>
+    </section>
+
+    <section id="technical-skills">
+        <h2>TECHNICAL SKILLS</h2>
+        <ul>
+            <li>Programming Languages: C, JavaScript</li>
+            <li>Software: ArcMap, ArcGIS Pro, QGIS, AutoCAD, Catia, Google Earth Engine</li>
+            <li>Database Management, GPS Handling, MS Excel, Machine Learning</li>
+            <li>Digital Terrain Models, Contour, Break line, Effective Communication, Cross Functional Collaboration</li>
+        </ul>
+    </section>
+
+    <section id="projects">
+        <h2>PROJECTS</h2>
+        <h3>CROP YIELD ESTIMATION USING MULTISPECTRAL REMOTE SENSING IN PARTS OF COIMBATORE</h3>
+        <ul>
+            <li>Used ArcMap 10.8.1 to create an inbuilt SVM model to find the yield of a crop using NDVI as a function.</li>
+            <li>Collected GPS points for ground truth data and converted into decimal degrees.</li>
+            <li>Created LULC map for the study area.</li>
+        </ul>
+
+        <h3>CROP MAPPING AND ASSESSMENT USING MULTISPECTRAL DATA IN PARTS OF COIMBATORE</h3>
+        <ul>
+            <li>Used ArcGIS Pro 3.3 to do crop mapping using 4 inbuilt algorithms.</li>
+            <li>Compared the four algorithms to find which works better for crop mapping.</li>
+            <li>Created Accuracy assessment and Error matrix.</li>
+        </ul>
+    </section>
+
+    <section id="internships">
+        <h2>INTERNSHIPS AND TRAININGS</h2>
+        <h3>Precision Agriculture Technologies TNAU - Coimbatore (16 - 22 Jun 2024)</h3>
+        <p>This comprehensive schedule combines theoretical knowledge with practical experiences to provide participants with a thorough understanding of protected cultivation technologies (Polyhouse, Hydroponics, Aeroponics,) facilitated by expert teaching staff from TNAU. The agriculture engineering students were able to observe and learn real-time lab to land technologies. The students also able to understand the current situation of large and small-scale farmers, and the need for Precision agriculture techniques.</p>
+
+        <h3>RAWE training in Agricultural Engineering Department, The Nilgiris (09 - 13 Oct 2023)</h3>
+        <p>Rural Agriculture Work Experience (RAWE) and the accompanying farmer survey have provided invaluable insights into the challenges and opportunities within rural agriculture. Through hands-on experience and direct engagement with farmers, we’ve gained a profound understanding of the issues they face. The survey results further complemented our findings, offering quantitative data to support our qualitative observations. It serves as a foundation for informed decision-making, policy development, and targeted interventions to improve the sustainability and livelihoods of rural farmers. As we move forward, it is essential to leverage these findings to foster positive changes in rural agriculture practices and contribute to the overall development of farming communities.</p>
+
+        <h3>ICAR-Soil and Water Conservation Research Center - Ooty (01 - 30 Jun 2023)</h3>
+        <p>During my training with a diverse group of trainees, I successfully accomplished goals and addressed issues related to the Agriculture Engineering Department. This experience deepened my understanding of critical topics such as watershed management, surveying, and the levelling of contour bunds and check dams, which have significantly inspired my current project. I also had the opportunity to interact with renowned research institutions like the ICAR-Potato Research Center, ICAR-Breeding Research Center, and Kerala Remote Sensing. These interactions enriched my knowledge about advanced technologies, including the use of drones, tissue culture, hyperspectral image analysis, and eddy covariance towers, further broadening my perspective and expertise in the field.</p>
+
+        <h3>The Joint Director of Horticulture - Ooty (20 - 25 Dec 2022)</h3>
+        <p>I assisted in raising awareness among farmers by developing educational materials such as brochures and flyers, which effectively communicated essential agricultural practices. Additionally, I conducted water and soil sampling and carried out detailed analyses to assess their quality. This work culminated in the creation of a comprehensive report on the soil status of The Nilgiris, providing valuable insights for sustainable agricultural practices in the region.</p>
+
+        <h3>Agri World - Erode (16 - 21 Nov 2022)</h3>
+        <p>I managed customer inquiries through various channels, including phone calls, emails, and other forms of communication, ensuring prompt and effective responses. Additionally, I performed quality checks on products before shipment or delivery, maintaining high standards. This experience provided me with valuable insights into agricultural machine parts manufacturing and assembly processes, as well as a deep understanding of the market for agricultural machinery and equipment.</p>
+    </section>
+
+    <section id="education">
+        <h2>EDUCATION</h2>
+        <table>
+            <tr>
+                <th>Course</th>
+                <th>Year of Passing</th>
+                <th>Institution</th>
+                <th>CGPA (or) %</th>
+            </tr>
+            <tr>
+                <td>B.E. Agriculture Engineering</td>
+                <td>2025</td>
+                <td>Kalaignarkarunanidhi Institute of Technology</td>
+                <td>8.3 (6th sem)</td>
+            </tr>
+            <tr>
+                <td>HSC</td>
+                <td>2021</td>
+                <td>Cordite Factory Higher Secondary School</td>
+                <td>87.2</td>
+            </tr>
+            <tr>
+                <td>SSLC</td>
+                <td>2019</td>
+                <td>Cordite Factory Higher Secondary School</td>
+                <td>89.1</td>
+            </tr>
+        </table>
+    </section>
+
+    <section id="certifications">
+        <h2>CERTIFICATIONS AND COURSES</h2>
+        <h3>PROGRAMMING LANGUAGE ORIENTED</h3>
+        <ul>
+            <li>Basics of C</li>
+            <li>Basics of Python</li>
+            <li>Basics of JavaScript</li>
+        </ul>
+
+        <h3>ISRO - EDUSAT ONLINE COURSES</h3>
+        <ul>
+            <li>Satellite Meteorology application in weather and climate studies.</li>
+            <li>Potential of NISAR for Disaster Mitigation and Management</li>
+            <li>Geospatial Technology for Digital Agriculture</li>
+            <li>Aditya L1 : India's first space-based observatory</li>
+        </ul>
+
+        <h3>COURSERA COURSES</h3>
+        <ul>
+            <li>Fundamentals of GIS (UC Davis)</li>
+            <li>Renewable Energy Technology Fundamentals</li>
+        </ul>
+
+        <h3>INFOSYS COURSES</h3>
+        <ul>
+            <li>Practical GIS - Fundamentals of Open source GIS</li>
+            <li>Satellite Remote Sensing Data Bootcamp with Open Source Tools</li>
+        </ul>
+    </section>
+
+    <section id="hobbies">
+        <h2>HOBBIES</h2>
+        <ul>
+            <li>Cooking</li>
+            <li>Blogs reading</li>
+            <li>Photography</li>
+            <li>Pinster</li>
+            <li>Decorating</li>
+            <li>Quora</li>
+            <li>Chess</li>
+            <li>Carrom</li>
+            <li>Drawing</li>
+            <li>Designing</li>
+            <li>Knitting</li>
+            <li>Music, Podcast</li>
+        </ul>
+    </section>
+
+    <section id="achievements">
+        <h2>ACHIEVEMENTS</h2>
+        <h3>College</h3>
+        <ul>
+            <li>2nd runner up in Inter-department level Quiz</li>
+            <li>2nd runner up in Group Singing</li>
+            <li>1st runner up in Selfie point layout</li>
+        </ul>
+
+        <h3>School</h3>
+        <ul>
+            <li>District Level Ranked 27th in Spell Bee</li>
+            <li>District Level 1st runner up in Quiz</li>
+            <li>District Level 2nd runner up in Essay writing</li>
+            <li>District level 5th in Chess</li>
+            <li>School 2nd in SSLC</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2024 Sri Janani.G. All rights reserved.</p>
+    </footer>
+</body>
+</html>
